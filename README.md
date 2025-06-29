@@ -63,7 +63,7 @@ Prototipe robot penanam benih otomatis berbasis ESP32 yang dikembangkan untuk tu
 
 Klik pada gambar di bawah untuk menonton video demonstrasi lengkap dari robot Seed-Ron.
 
-[![Demonstrasi Robot Seed-Ron](docs/thumbnail-video.png)](https://drive.google.com/file/d/1TojqTNlJSyJwy66FcoPz6-dtr56Qavnw/view?usp=sharing)
+[![Demonstrasi Robot Seed-Ron](docs/thumbnail-video.png)](https://drive.google.com/file/d/1Osnr1ss_NfM5m6viLpX-DdSs46xqzNcz/view?usp=sharing)
 
 ---
 
@@ -80,5 +80,5 @@ Repository ini berisi semua kode yang dikembangkan selama proyek, mulai dari pen
 
 ---
 
-Dibuat untuk memenuhi tugas besar mata kuliah IFB-308 Pemrograman Robotika - Institut Teknologi Nasional Bandung.
-Dosen: Milda Gustiana Husada, S.T., M.Eng.
+> Dibuat untuk memenuhi tugas besar mata kuliah IFB-308 Pemrograman Robotika - Institut Teknologi Nasional Bandung.
+> Dosen: Milda Gustiana Husada, S.T., M.Eng.
