@@ -63,7 +63,7 @@ Prototipe robot penanam benih otomatis berbasis ESP32 yang dikembangkan untuk tu
 
 Klik pada gambar di bawah untuk menonton video demonstrasi lengkap dari robot Seed-Ron.
 
-[![Video Demonstrasi Seed-Ron](https://img.youtube.com/vi/PZ1vkzNg6BM/0.jpg)](https://www.youtube.com/watch?v=PZ1vkzNg6BM)
+[![Demonstrasi Robot Seed-Ron](docs/thumbnail-video.png)](https://drive.google.com/file/d/1TojqTNlJSyJwy66FcoPz6-dtr56Qavnw/view?usp=sharing)
 
 ---
 
