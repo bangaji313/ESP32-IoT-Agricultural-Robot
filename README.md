@@ -49,13 +49,13 @@ Prototipe robot penanam benih otomatis berbasis ESP32 yang dikembangkan untuk tu
 ---
 
 ###  Diagram Blok Sistem
-![Diagram Blok Sistem](docs\Revisi-Diagram Blok Sistem Robot Seed-Ron.drawio.drawio.png)
+![Diagram Blok Sistem](docs\Revisi-DiagramBlokSeedRon.jpg)
 
 ### Flowchart Sistem
-![Flowchart Algoritma Sistem](docs\Flowchart Algoritma Sistem Secara Keseluruhan.drawio.png)
+![Flowchart Algoritma Sistem](docs\FlowchartSistemSeedRon.jpg)
 
 ### Bentuk Jadi Robot
-![Fisik Robot](docs\Fisik Robot.jpg)
+![Fisik Robot](docs\FisikRobot.jpg)
 
 ---
 
