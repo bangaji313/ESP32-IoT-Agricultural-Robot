@@ -1,0 +1,8 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Arduino IDE build files (opsional tapi sangat disarankan)
+*.elf
+*.bin
+/build/
